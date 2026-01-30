@@ -1,0 +1,5 @@
+# NAME: MyDirectRoles
+# AUTHOR: blahaj
+payload:
+  - DOMAIN-SUFFIX,nxonearth.com
+  - DOMAIN-SUFFIX,csun.site
